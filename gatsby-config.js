@@ -6,5 +6,5 @@ module.exports = {
     title: `RealtimeBuilders`,
     siteUrl: `https://www.yourdomain.tld`,
   },
-  plugins: ["gatsby-plugin-styled-components", "gatsby-plugin-postcss"],
+  plugins: ["gatsby-plugin-styled-components", "gatsby-plugin-postcss", "gatsby-plugin-image"],
 };
